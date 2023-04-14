@@ -1,0 +1,33 @@
+.wrapper
+{
+width:auto;
+margin: auto;
+float:center;
+height:auto;
+}
+.top
+{
+    float: center;
+    color:lightskyblue
+}
+.head{
+    float: center;
+    color: black;
+    margin-top: -50px;
+}
+.pic{
+    float: center;
+    margin-left: 420px;
+
+}
+.log
+{
+    float: center;
+}.header{
+	padding-top:10px;
+	padding-left:10px;	
+	height:70px;
+	width:auto;
+	background:#222;
+	
+}
